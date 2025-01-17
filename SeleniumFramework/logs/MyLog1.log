@@ -1,0 +1,11 @@
+[INFO ] 2025-01-12 14:56:55.167 [main] Log4jDemo - this is information message
+[ERROR] 2025-01-12 14:56:55.178 [main] Log4jDemo - This is error message
+[WARN ] 2025-01-12 14:56:55.179 [main] Log4jDemo - This is warn msg
+[FATAL] 2025-01-12 14:56:55.179 [main] Log4jDemo - This is fatal msg
+[INFO ] 2025-01-12 14:59:27.756 [main] Log4jDemo - this is information message
+[ERROR] 2025-01-12 14:59:27.767 [main] Log4jDemo - This is error message
+[WARN ] 2025-01-12 14:59:27.767 [main] Log4jDemo - This is warn msg
+[FATAL] 2025-01-12 14:59:27.767 [main] Log4jDemo - This is fatal msg
+[INFO ] 2025-01-12 19:01:32.698 [main] Log4jDemo - Browser startrd
+[INFO ] 2025-01-12 19:03:37.786 [main] Log4jDemo - Browser startrd
+[INFO ] 2025-01-12 19:11:14.193 [main] Log4jDemo - Browser startrd
